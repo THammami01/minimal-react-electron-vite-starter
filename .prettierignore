@@ -1,0 +1,13 @@
+.vscode
+**/.git
+**/node_modules
+dist
+release
+.gitignore
+package.json
+package-lock.json
+electron-builder.json5
+tsconfig.json
+.prettierignore
+.prettierrc.json
+**/*.d.ts
